@@ -11,22 +11,19 @@ Relatórios: Geração de relatórios HTML detalhados para facilitar a análise 
 Como Executar os Testes
 Instale as Dependências:
 
-bash
-Copiar código
+Copiar código:
 npm install
 Execute os Testes:
 
-bash
-Copiar código
+Copiar código:
 npx playwright test
 Visualize os Relatórios: Para visualizar o relatório HTML gerado, use o comando:
 
-bash
-Copiar código
+Copiar código:
 npx playwright show-report
 Contribuição
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-Licença
+Licença:
 Este projeto é licenciado sob a Licença MIT.
 
